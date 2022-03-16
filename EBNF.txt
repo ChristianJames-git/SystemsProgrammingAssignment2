@@ -1,0 +1,5 @@
+Christian James - 823672623
+<exp>          ::= <term> { <op> <term> }
+<op>           ::= and | or | nand | xor | xnor
+<term>         ::= <relop> int | int - int | ( <exp> )
+<relop>        ::= < | > | <= | >= | = | != | not

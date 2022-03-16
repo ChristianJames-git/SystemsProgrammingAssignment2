@@ -1,0 +1,9 @@
+Syllabus SLO #7:
+Ability to perform syntactical (parsing) analysis in compiler.
+
+Technically by studying the given code I learned the simplified lexical analysis for this program.
+Working with Python.
+Developing EBNF grammar rules that fit given specifications.
+Coding based on EBNF grammar rules.
+Recursive programming.
+Best-practice commenting.
